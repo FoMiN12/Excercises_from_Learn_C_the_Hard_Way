@@ -67,8 +67,6 @@ int main(int argc, char *argv[])
 
 	printf("---\n"); 
 
-	
-
 	// second way using pointers
 	second_function(count, cur_age, cur_name);
 
