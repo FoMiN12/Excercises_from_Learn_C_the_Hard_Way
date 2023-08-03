@@ -95,5 +95,7 @@ int main(int argc, char *argv[])
 	Person_destroy(joe);
 	Person_destroy(frank);
 
+	// Person_destroy(NULL);
+
 	return 0;
 }
